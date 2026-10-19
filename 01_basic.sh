@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "HEY VAISHNAVI ROCKS!!"
+echo "HEY, THIS IS A BASIC COMMAND TO PRINT IN CONSOLE!!"
