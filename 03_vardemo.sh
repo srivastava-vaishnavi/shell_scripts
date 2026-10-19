@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Defining variables
-name="Vaishnavi"
+name="Person"
 echo "My name is: $name"
 
 readonly age=25.9
