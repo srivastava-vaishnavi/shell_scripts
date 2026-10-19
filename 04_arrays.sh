@@ -2,7 +2,7 @@
 
 #Arrays
 
-arr=(Name "Vaishnavi Srivastava" Age "is:" 25)
+arr=(Name "Imaginary person" Age "is:" 25)
 echo ${arr[*]}
 echo "${arr[0]} is ${arr[1]}"
 
