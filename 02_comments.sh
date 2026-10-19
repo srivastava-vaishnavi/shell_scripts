@@ -3,9 +3,9 @@
 #This is a single line comment
 echo "For single line comment use #"
 
-<<vaish
+<<anything
 This is a multiline comment
 Not gonna print
-vaish
+anything
 
-echo "For multiline use double < followed by any word like <<vaish"
+echo "For multiline use double < followed by any word like <<anything"
